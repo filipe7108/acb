@@ -1,0 +1,15 @@
+{
+  "name": "antoniocosta",
+  "version": "1.0.0",
+  "description": "Olá, sou o António Luís Santos da Costa, atual Primeiro ministro da República Portuguesa!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mãe do António",
+  "license": "ISC",
+  "dependencies": {
+    "opusscript": "0.0.4",
+    "ytdl-core": "^0.18.1"
+  }
+}
